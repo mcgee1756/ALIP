@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALIPFunctions", "ALIPFunctions\ALIPFunctions.csproj", "{8D21CC8E-D980-45E4-9BC1-41E52726C057}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALIPFunctions", "ALIPFunctions\ALIPFunctions.csproj", "{8D21CC8E-D980-45E4-9BC1-41E52726C057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALIPFunctionsTests", "ALIPFunctionsTests\ALIPFunctionsTests.csproj", "{A2654BA3-A167-4A51-840A-6AA9FDB107DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8D21CC8E-D980-45E4-9BC1-41E52726C057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D21CC8E-D980-45E4-9BC1-41E52726C057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D21CC8E-D980-45E4-9BC1-41E52726C057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2654BA3-A167-4A51-840A-6AA9FDB107DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2654BA3-A167-4A51-840A-6AA9FDB107DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2654BA3-A167-4A51-840A-6AA9FDB107DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2654BA3-A167-4A51-840A-6AA9FDB107DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
